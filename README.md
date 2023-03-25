@@ -1,7 +1,4 @@
 ### Hi there 👋
-<a href="https://github.com/azamat684/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat684&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat684)](https://github.com/azamat684/github-readme-stats)
