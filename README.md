@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat684)](https://github.com/azamat684/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat684&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamat684&show_icons=true&theme=radical)
 <!--
 **azamat684/azamat684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
