@@ -33,7 +33,7 @@
 
 **Contact**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bekzod030900@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
 
 <p> 
