@@ -1,27 +1,27 @@
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamat684&theme=github_dark" alt="info">
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/azamat684/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
 
-**Back-end**
+## Back-end
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
-**Databases**
+## Databases
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
 
-**Front-end**
+## Front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Contact**
+## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
@@ -63,8 +63,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azamat684&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azamat684&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azamat684&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=azamat684&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
