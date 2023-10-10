@@ -44,7 +44,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=azamat684&color=brightgreen" alt="azamat684"/>
 <a href="https://github.com/azamat684?tab=followers">
     <img src="https://img.shields.io/github/followers/azamat684?label=Followers&style=social" alt="followers-count">
 </a>
