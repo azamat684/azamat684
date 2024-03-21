@@ -17,8 +17,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/azamat684/) 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-
-
+# Contact
+## via Gmail: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
+## via Telegram: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
 <!--
 ## Back-end
 
@@ -44,10 +45,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  -->
-## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
+
+
 <!--
 <p> 
 <a href="https://github.com/azamat684?tab=followers">
@@ -58,8 +58,9 @@
  <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azamat_dosmukhambetov) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azikk_2oo7) 
+# 🌐 Socials:
+## Follow me on Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azamat_dosmukhambetov) 
+## Follow me on Tiktok: [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azikk_2oo7) 
 
 
 
