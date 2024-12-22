@@ -19,7 +19,7 @@
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 # Contact
 ## Gmail: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov684@gmail.com)
-## Telegram: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/adskhmbtv)]
+## Telegram: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/adskhmbtv)](https://t.me/adskhmbtv)
 <!--
 ## Back-end
 
