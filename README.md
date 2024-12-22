@@ -18,8 +18,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamat684&theme=tokyonight_duo&hide_border=true)](https://github.com/azamat684/) 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 # Contact
-## via Gmail: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov0418@gmail.com)
-## via Telegram: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/azikk_0418)](https://t.me/azikk_0418)
+## Gmail: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azamatdosmuxambetov684@gmail.com)](mailto:azamatdosmuxambetov684@gmail.com)
+## Telegram: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/adskhmbtv)]
 <!--
 ## Back-end
 
